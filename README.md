@@ -4,7 +4,7 @@
 
 &nbsp;
 
-CSS
+### CSS
 
 ```
 font-family: 'High Summit';
@@ -12,7 +12,7 @@ font-family: 'High Summit';
 
 &nbsp;
 
-link
+### link
 
 ```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/HighSummit/HighSummit.css" type="text/css"/>
@@ -20,7 +20,7 @@ link
 
 &nbsp;
 
-import
+### import
 
 ```
 @import url('https://cdn.jsdelivr.net/gh/fonts-archive/HighSummit/HighSummit.css');
@@ -28,7 +28,7 @@ import
 
 &nbsp;
 
-font-face
+### font-face
 
 ```
 @font-face {
@@ -41,4 +41,18 @@ font-face
          url('https://cdn.jsdelivr.net/gh/fonts-archive/HighSummit/HighSummit.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/HighSummit/HighSummit.ttf') format('truetype');
 }
+```
+
+&nbsp;
+
+### 라이센스 본문
+
+```
+High summit is elegant signature font. This font have special features. It can be used on your project, photography, name tag, quotes, and etc. This font is free for use (personal and commercial) 
+ 
+This font is 100% free to use (personal and commercial). This font inluded two files (.ttf and .otf) 
+ 
+Follow our instagram :  https://www.instagram.com/alphabetadesignstudio/ 
+ 
+Paypal account for donation : https://www.paypal.me/hartadic
 ```
